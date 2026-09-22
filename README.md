@@ -1,2 +1,2 @@
-# islamic-inheritance-calculator
-An automated Islamic Inheritance calculator (Fiqh al-mawarith  engine) that builds a Python engine that computes Qur’anic inheritance shares based on family input (parents, spouses, children, etc.). it uses fractional arithmetic to ensure exactness.
+# Ames_faraid_engine
+Python engine for Islamic inheritance calculation (Fara'id, 'Awl, Radd, Tanzeel) — Project 1 of the AMES suite.
